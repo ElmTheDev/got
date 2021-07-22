@@ -140,10 +140,7 @@
   },
   "runkitExampleFilename": "./documentation/examples/runkit-example.js",
   "scripts": {
-    "build": "del-cli dist && tsc",
-    "prepare": "npm run build",
-    "release": "np",
-    "test": "xo && npm run build && nyc --reporter=html --reporter=text ava"
+    "release": "np"
   },
   "sideEffects": false,
   "types": "dist/source",

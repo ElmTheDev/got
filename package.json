@@ -94,7 +94,7 @@
 		"slow-stream": "0.0.4",
 		"tempy": "^1.0.1",
 		"to-readable-stream": "^3.0.0",
-		"git+https://github.com/ElmTheDev/tough-cookie.git": "^4.0.0",
+		"tough-cookie": "git+https://github.com/ElmTheDev/tough-cookie.git",
 		"ts-node": "^10.1.0",
 		"typescript": "4.3.5",
 		"xo": "^0.41.0"
